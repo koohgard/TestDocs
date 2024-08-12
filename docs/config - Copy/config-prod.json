@@ -1,8 +1,0 @@
-{
-    "env": {
-        "name": "prod"
-    },
-    "apiServer": {
-        "url": "https://localhost:7037/"
-    }
-}
