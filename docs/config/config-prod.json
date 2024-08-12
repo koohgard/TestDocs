@@ -3,6 +3,6 @@
         "name": "prod"
     },
     "apiServer": {
-        "url": "https://rbtaj.com/"
+        "url": "https://localhost:7037/"
     }
 }
