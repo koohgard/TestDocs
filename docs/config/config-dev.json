@@ -1,8 +1,5 @@
 {
-    "env": {
-        "name": "dev"
-    },
-    "apiServer": {
-        "url": "https://localhost:7037/"
-    }
+    "env": "dev",
+    "botName": "RBTajTestBot",
+    "apiServer": "https://localhost:7037/"
 }
